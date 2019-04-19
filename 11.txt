@@ -1,1 +1,13 @@
-﻿
+
+EPAR Technical Report #386: Climate Change Impact on Smallholder Farmers Review Framework and Results Coding
+
+References for the impact of Precipitation on Crop yield:
+
+
+Boulain, N., Cappelaere, B., Séguis, L., Gignoux, J., & Peugeot, C. (2006). Hydrologic and land use impacts on vegetation growth and NPP at the watershed scale in a semi-arid environment. Regional Environmental Change, 6(3), 147-156.
+
+Diem, Jeremy E., et al. (2017). Comparison of measured multi-decadal rainfall variability with farmers’ perceptions of and responses to seasonal changes in western Uganda. Regional Environmental Change 17.4, 1127-1140. doi: 10.1007/s10113-016-0943-1
+
+Manandhar et al. (2011). Adapting Cropping Systems to Climate Change in Nepal: A Cross-Regional Study of Farmers’ Perception and Practices. Regional Environmental Change, 11(2), 335-348. doi: 10.1007/s10113-010-0137-1
+
+Martin et al. (2010). Soil Organic Carbon Storage Changes with Climate Change, Landform and Land Use Conditions in Garhwal Hills of the Indian Himalayan Mountains. Agriculture, Ecosystems & Environment, 138(1-2), 64-73. doi: 10.1016/j.agee.2010.04.001

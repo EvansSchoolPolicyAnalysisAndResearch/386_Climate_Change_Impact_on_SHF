@@ -1,1 +1,14 @@
-﻿
+
+
+EPAR Technical Report #386: Climate Change Impact on Smallholder Farmers Review Framework and Results Coding
+
+References for the impact of Precipitation on Extreme events:
+
+
+Dimri, A. P. & Dash, S. K. (2012). Wintertime Climatic Trends in the Western Himalayas. Climatic Change, 111, 775–800. doi: 10.1007/s10584-011-0201-y
+
+Goswami et al. (2006). Increasing Trend of Extreme Rain Events Over India in a Warming Environment. Science, 314(5804), 1442-1445. Doi: 10.1126/science.1132027
+
+Nandargi, S. and Dhar, O. (2007). Extreme Rainfall Events Over the Himalayas Between 1871 and 2007. Hydrological Sciences Journal, 56(6), 930-945.  doi: 10.1080/02626667.2011.595373
+
+Worku, G. et al. (2018). Observed changes in extremes of daily rainfall and temperature in Jemma Sub-Basin, Upper Blue Nile Basin, Ethiopia. Theoretical and Applied Climatology. doi:10.1007/s00704-018-2412-x

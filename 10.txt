@@ -1,1 +1,15 @@
-﻿
+
+EPAR Technical Report #386: Climate Change Impact on Smallholder Farmers Review Framework and Results Coding
+
+References for the impact of Temperature on Crop yield:
+
+
+Arshad, M., Amjath-Babu, T. S., Aravindakshan, S., Krupnik, T. J., Toussaint, V., Kächele, H., & Müller, K. (2018). Climatic variability and thermal stress in Pakistan’s rice and wheat systems: A stochastic frontier and quantile regression analysis of economic efficiency. Ecological indicators, 89, 496-506. doi: 10.1016/j.ecolind.2017.12.014
+
+Gupta, R., Somanathan, E., & Dey, S. (2017). Global Warming and Local Air Pollution Have Reduced Wheat Yields in India. Climatic Change, 140, 593–604. doi: 10.1007/s10584-016-1878-8
+
+Ifeanyi-obi, C. & Togun, A. (2017). Effects of climate change on cocoyam farming in southeast Nigeria. International Journal of Social Sciences, 11(2), 44-54. http://socialscienceuniuyo.com/wp-content/uploads/2017/09/Article-4-Ifeanyi-obi-C.-C.-and-Togun-A.-O..pdf
+
+Tripathi et al. (2015). Paradigms of Climate Change Impacts on Some Major Food Sources of the World: A Review on Current Knowledge and Future Prospects. Agriculture, Ecosystems & Environment, 216, 356-373. doi: 10.1016/j.agee.2015.09.034
+
+Vermeulen, S., Campbell, B., and Ingram, J. (2012). Climate Change and Food Systems. Annual Review of Environment and Resources, 37, 195-222. doi: 10.1146/annurev-environ-020411-130608

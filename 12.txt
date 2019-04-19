@@ -1,1 +1,17 @@
-﻿
+
+EPAR Technical Report #386: Climate Change Impact on Smallholder Farmers Review Framework and Results Coding
+
+References for the impact of Temperature & precipitation combined on Crop yield:
+
+
+Abid, M., Schilling, J., Sheffran, J., & Zulfiqar, F. (2016). Climate change vulnerability, adaptation and risk perceptions at farm level in Punjab, Pakistan. Science of the Total Environment, 547, 447-460. doi.org/10.1016/j.scitotenv.2015.11.125 
+
+Adisa et al. (2016) found that decreased precipitation and increased temperature, sometimes to the point of drought, impacted the growing season and led to greater variability in maize production in South Africa.
+
+Dhanya, P. & Ramachandran, A. (2016). Farmers’ perceptions of climate change and the proposed agriculture adaptation strategies in a semi arid region of south India, Journal of Integrative Environmental Sciences, 13, 1-18. doi: 10.1080/1943815X.2015.1062031
+
+Gentle, P. and Maraseni, T. (2012). Climate Change, Poverty and Livelihoods: Adaptation Practices by Rural Mountain Communities in Nepal. Environmental Science & Policy, 21, 24-34. doi: 10.1016/j.envsci.2012.03.007
+
+Mumo, Lucia, Jinhua Yu, and Ke Fang. (2018). Assessing Impacts of Seasonal Climate Variability on Maize Yield in Kenya. International Journal of Plant Production 12.4, 297-307. doi: 10.1007/s42106-018-0027-x
+
+Ray et al. (2015). Climate Variation Explains a Third of Global Crop Yield Variability. Nature Communications, 6(5989), 1-9. Doi: 10.1038/ncomms6989 

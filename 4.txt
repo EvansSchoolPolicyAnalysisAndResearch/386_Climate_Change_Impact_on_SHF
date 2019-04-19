@@ -1,1 +1,13 @@
-﻿
+
+EPAR Technical Report #386: Climate Change Impact on Smallholder Farmers Review Framework and Results Coding
+
+References for the impact of Temperature on Extreme events:
+
+
+Chen, X. Q., Cui, P., Li, Y., Yang, Z., & Qi, Y. Q. (2007). Changes in glacial lakes and glaciers of post-1986 in the Poiqu River basin, Nyalam, Xizang (Tibet). Geomorphology, 88(3-4), 298-311.
+
+Dash, S. K. & Mamgain, A. (2011). Changes in the Frequency of Different Categories of Temperature Extremes in India. Journal of Applied Meteorology and Climatology, 50, 1842-1858. doi:10.1175/2011JAMC2687.1
+
+Dimri, A. P. & Dash, S. K. (2012). Wintertime Climatic Trends in the Western Himalayas. Climatic Change, 111, 775–800. doi: 10.1007/s10584-011-0201-y
+
+Eriksson, M., Jianchu, X., Shrestha, A. B., Vaidya, R. A., Nepal, S., & Sandström, K. (2009). The Changing Himalayas: Impact of Climate Change on Water Resources and Livelihoods in the Greater Himalayas. International Centre for Integrated Mountain Development. 

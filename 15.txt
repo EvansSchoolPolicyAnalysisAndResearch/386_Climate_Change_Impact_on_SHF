@@ -1,1 +1,9 @@
-﻿
+
+EPAR Technical Report #386: Climate Change Impact on Smallholder Farmers Review Framework and Results Coding
+
+References for the impact of Temperature & precipitation on Plant species density, richness, and range:
+
+
+Gonzalez, P., Tucker, C.J. & Sy, H. (2012). Tree density and species decline in the African Sahel attributable to climate. Journal of Arid Environments, 78, 55-64. doi:10.1016/j.jaridenv.2011.11.001
+
+M’mboroki, K.G., Wandiga, S., & Oriaso, S.O. (2018). Climate Change Impacts Detection in Dry Forested Ecosystem as Indicated by Vegetation Cover Change in -Laikipia, of Kenya. Environmental Monitoring and Assessment, 190(4). doi: 10.1007/s10661-018-6630-6

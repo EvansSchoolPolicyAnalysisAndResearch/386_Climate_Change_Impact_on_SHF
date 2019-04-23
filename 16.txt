@@ -1,9 +1,0 @@
-
-EPAR Technical Report #386: Climate Change Impact on Smallholder Farmers Review Framework and Results Coding
-
-References for the impact of Temperature on Streamflow:
-
-
-Liu, J. et al. (2012). Comparative analysis of hydroclimatic changes in glacier-fed rivers in the Tibet- and Bhutan- Himalayas. Quaternary International, 282, 104-112.  doi: 10.1016/j.quaint.2012.06.008
-
-Raha, A. et al. (2012). Climate change impacts on Indian Sunderbans: a time series analysis (1924-2008). Biodiversity and Conservation, 21, 5, 1289-1307. 
